@@ -4,7 +4,7 @@ using namespace std;
 
 int main () {
   int capacity=5;
-  int* number = new int[capacity]; //le digo a c++ que quiero 5 espacios de memoria para guardar n
+  int* number = new int[5]; //le digo a c++ que quiero 5 espacios de memoria para guardar n
   int entries=0;
 
   while(true){

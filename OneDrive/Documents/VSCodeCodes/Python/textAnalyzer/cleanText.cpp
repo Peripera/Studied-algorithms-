@@ -1,0 +1,1 @@
+//propose to separate main.cpp from lcs.cpp and cleanText.cpp for better organization in header files and implementation files nya
